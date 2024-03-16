@@ -21,7 +21,7 @@
 <!--header section starts -->
 <section class="header">
 
-<a href="home.php" class="logo">travel.</a>
+<a href="home.php" class="logo">TripTrekker</a>
   
 <nav class="navbar">
     <a href="home.php">home</a>
@@ -121,9 +121,9 @@
 
 <div class="content">
     <h3>about us</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni fuga 
-        officia placeat ipsam beatae in veritatis culpa qui veniam voluptates suscipit 
-        repudiandae explicabo exercitationem sunt cum similique, debitis, nulla totam.</p>
+    <p>Welcome to TripTrekker ! We're avid travelers on a mission to inspire and empower you to explore the world with confidence and curiosity.
+         Our curated guides, insider tips, and personalized recommendations are designed to help you make the most of your adventures. 
+        Join us as we journey together and discover the magic of travel.</p>
         <a href="about.php" class="btn">read more</a>
 </div>
 </section>
@@ -140,8 +140,8 @@
                 <img src="images/taj-mahal.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                <h3>Cultural Expeditions</h3>
+                <p>Ideal for history buffs and culture enthusiasts with tours to ancient landmarks, museums, and traditional villages. </p>
                      <a href="book.php" class="btn">book now</a>
             </div>
         </div>
@@ -151,8 +151,8 @@
                 <img src="images/eiffel-tower.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                <h3>Romantic Retreats</h3>
+                <p>Tailored for couples looking for intimate getaways with candlelit dinners, spa treatments, and sunset cruises. </p>
                      <a href="book.php" class="btn">book now</a>
             </div>
         </div>
@@ -162,9 +162,8 @@
                 <img src="images/egypt.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    voluptates animi repudiandae distinctio sit.</p>
+                <h3>Desert Odyssey</h3>
+                <p>Venture into the vast Sahara Desert and experience the magic of the golden sands, camel rides, and Bedouin hospitality under the starlit skies.</p>
                      <a href="book.php" class="btn">book now</a>
             </div>
         </div>
@@ -178,7 +177,9 @@
 <section class="home-offer">
     <div class="content">
         <h3>upto 50% off</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>"Embark on your dream adventures for less with our exclusive limited-time offer! Enjoy a thrilling 50% off on all travel packages and experiences. 
+            From breathtaking destinations to unforgettable journeys, discover the world with unbeatable savings. 
+            Don't miss out book your discounted getaway today!"</p>
         <a href="book.php" class="btn">book now</a>
     </div>
 </section>

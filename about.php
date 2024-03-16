@@ -21,7 +21,7 @@
 <!--header section starts -->
 <section class="header">
 
-<a href="home.php" class="logo">travel.</a>
+<a href="home.php" class="logo">TripTrekker</a>
   
 <nav class="navbar">
     <a href="home.php">home</a>
@@ -48,11 +48,10 @@
 
     <div class="content">
         <h3>why choose us</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Explicabo officiis consequatur asperiores, esse itaque fugit, eligendi, nemo necessitatibus ad doloremque beatae. 
-             Nesciunt est voluptate reprehenderit, deleniti labore necessitatibus illo porro.</p>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-                Repellat eos odio magnam tempore nam repudiandae omnis harum non! Praesentium, veniam!</p>
+        <p>Welcome to  TripTrekker ! We're avid travelers on a mission to inspire and empower you to explore the world with confidence and curiosity.
+             Our curated guides, insider tips, and personalized recommendations are designed to help you make the most of your adventures. 
+            Join us as we journey together and discover the magic of travel.</p>
+        
           <div class="icon-container">
             <div class="icons">
                 <i class="fas fa-map"></i>
@@ -86,7 +85,7 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>"Incredible resource for travel enthusiasts! TripTrekker has everything you need to plan your next adventure."</p>
                 <h3>john deo</h3>
                 <span>traveler</span>
                 <img src="images/pic1.jpg" alt="">
@@ -99,7 +98,7 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>"A must-visit site for wanderlust seekers! TripTrekker offers expert advice and inspiration for every type of traveler."</p>
                 <h3>Yvette Ballard</h3>
                 <span>traveler</span>
                 <img src="images/pic2.jpg" alt="">
@@ -111,7 +110,7 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                  </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>"From hidden gems to top attractions, TripTrekker is my go-to for trip planning. Five stars!"</p>
                 <h3>Mabel Reid</h3>
                 <span>traveler</span>
                 <img src="images/pic3.jpg" alt="">
@@ -123,7 +122,7 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>"Impressive collection of travel insights! TripTrekker helped me discover new destinations and make the most of my travels."</p>
                 <h3>lara johnson</h3>
                 <span>traveler</span>
                 <img src="images/pic4.jpg" alt="">
@@ -136,7 +135,7 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                <p>"Navigating the world just got easier with TripTrekker. I'm hooked on their detailed guides and practical tips." </p>
                 <h3>mary john</h3>
                 <span>traveler</span>
                 <img src="images/pic5.jpg" alt="">
@@ -149,7 +148,7 @@
                     <i class="fas fa-star"></i>
                    
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>"Highly recommend TripTrekker for anyone seeking adventure. It's like having a personal travel agent at your fingertips!"</p>
                 <h3>Adan Barajas</h3>
                 <span>traveler</span>
                 <img src="images/pic6.jpg" alt="">

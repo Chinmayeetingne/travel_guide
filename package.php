@@ -49,7 +49,7 @@
     <!--header section starts -->
     <section class="header">
 
-        <a href="home.php" class="logo">travel.</a>
+        <a href="home.php" class="logo">TripTrekker</a>
 
         <nav class="navbar">
             <a href="home.php">home</a>
@@ -75,8 +75,8 @@
             <div class="box">
                 <img src="images/img1.jpg" alt="" class="imgDim">
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>Cultural Expeditions</h3>
+                    <p>Ideal for history buffs and culture enthusiasts with tours to ancient landmarks, museums.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
 
@@ -87,8 +87,8 @@
                 <img src="images/img2.jpg" alt="" class="imgDim">
 
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>Golden Glow Getaway</h3>
+                    <p>Bask in the golden hues of the Golden Gate Bridge as you embark on a scenic adventure.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
@@ -97,8 +97,8 @@
                 <img src="images/img3.jpg" alt="" class="imgDim">
 
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>Musee du Louvre Expedition</h3>
+                    <p>Unveil the secrets of the Louvre Museum's vast collections.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
@@ -107,8 +107,8 @@
                 <img src="images/img4.jpg" alt="" class="imgDim">
 
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>Thailand Trails</h3>
+                    <p>Discover the hidden gems and cultural delights of Thailand's cities and countryside.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
@@ -117,8 +117,8 @@
                 <img src="images/img5.jpg" alt="" class="imgDim">
 
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>Val d'Orcia Vista</h3>
+                    <p>Immerse yourself in the breathtaking beauty of Val d'Orcia's rolling hills and picturesque villages.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
@@ -126,8 +126,8 @@
             <div class="box">
                 <img src="images/img6.jpg" alt="" class="imgDim">
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>Tower Bridge </h3>
+                    <p>Dive into London's history and architecture as you explore the majestic Tower Bridge.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
@@ -135,37 +135,39 @@
             <div class="box">
                 <img src="images/img7.jpg" alt="" class="imgDim">
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>Jumma Mubarak </h3>
+                    <p>Uncover the spiritual significance and architectural grandeur of Jumma Mubarak Masjid.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
             <div class="box">
                 <img src="images/img8.jpg" alt="" class="imgDim">
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>NYC Explorer</h3>
+                    <p>Discover the heart and soul of the Big Apple as you traverse its diverse  world-class museums.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
             <div class="box">
                 <img src="images/img9.jpg" alt="" class="imgDim">
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>India Explorer</h3>
+                    <p>Embark on a journey to the heart of India featuring a mesmerizing tour of the iconic India Gate.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
             <div class="box">
                 <img src="images/img10.jpg" alt="" class="imgDim">
                 <div class="content">
-                    <h3>adventure & tour</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, illum.</p>
+                    <h3>Parisian Splendor</h3>
+                    <p>Explore the enchanting streets of Paris, adorned with iconic landmarks.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
 
-            <div class="box">
+            <div class="load-more" id="loadmore" onclick="loadMore()" ><span class="btn" >load more</span></div>
+
+            <!-- <div class="box">
                 <img src="images/img11.jpg" alt="" class="imgDim">
                 <div class="content">
                     <h3>adventure & tour</h3>
@@ -209,9 +211,9 @@
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
-        </div>
+        </div> -->
 
-        <div class="load-more" id="loadmore" onclick="loadMore()" ><span class="btn">load more</span></div>
+        
     </section>
 
     <!-- packages section ends -->
